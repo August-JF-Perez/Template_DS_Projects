@@ -1,0 +1,76 @@
+plotly
+	for EDA. Interactive so don't have to re-run code just to get a closer look at a potentially interesting detail
+
+Seaborn
+	for static plots. Generally better for statistical anaylysis
+
+random
+
+os
+    Interact with the operating system
+    File and directory management
+    Environment variables and process information
+
+itertools
+    Iterator building blocks
+    Combinatoric generators, such as permutations and combinations
+    Memory-efficient looping
+
+datetime
+
+statistics
+
+tempfile
+    Create temporary files and directories
+    Automatically clean up resources after use
+    Named and unnamed, file-like objects and file system entries
+
+zipfile
+    Use the ‘zipfile’ module to create and extract ZIP archives.
+
+numpy
+
+pandas
+
+matplotlib
+
+tqdm
+	A fast, extensible progress bar for loops and other iterable objects.
+
+dask
+	better than pandas for larger datasets and parallel computing
+
+featuretools
+	automating feature engineering
+
+
+
+
+
+
+keras
+
+scikit-learn
+	sklearn
+
+lime
+	explain the output of any machine learning model
+
+shap
+	explain the output of any machine learning model
+
+scipy
+
+statsmodels
+
+tensorflow
+
+pytorch
+
+
+timeit
+
+
+
+Base Packages/Libraries
+python==3.11.11
